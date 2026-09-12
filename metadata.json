@@ -1,0 +1,7 @@
+{
+  "name": "KISANX",
+  "description": "AI-powered agriculture intelligence and farm profit maximization platform for Indian farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
